@@ -1,1 +1,1 @@
-Hello, World! hoy es SanJuernes
+Hello, World! hoy es SanJuernes juernes
